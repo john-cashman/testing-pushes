@@ -1,9 +1,16 @@
 # Table of contents
 
-## Get Started
+## Getting Started
 
+* [Welcome](README.md)
+
+***
+
+* [Concepts](concepts.md)
+* [Sdks](sdks.md)
 
 ## API Reference
 
-* [API Reference](api-reference/README.md)
+***
 
+* [API Reference](api-reference-1.md)
